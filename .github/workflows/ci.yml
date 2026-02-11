@@ -40,4 +40,4 @@ jobs:
         context: .
         push: true
         # Replace 'yourusername' with your actual Docker Hub username
-        tags: yourusername/my-devops-app:latest
+        tags: adityaforcollegetcet/my-devops-app:latest
